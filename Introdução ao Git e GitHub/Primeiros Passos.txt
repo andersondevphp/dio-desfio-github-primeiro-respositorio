@@ -1,3 +1,5 @@
+Baixando o terminal para trabalhar com linha de comando no versionamento de projetos com o Git/GitHub.
+
 Link para download do Git na ambiente Windows: https://git-scm.com/download/win
 
 Link para download do Git na ambienteLinus: https://git-scm.com/download/linux
