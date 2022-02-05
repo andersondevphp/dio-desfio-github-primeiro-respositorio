@@ -1,28 +1,28 @@
-Markdown
+# Markdown
 A linguagem de marcação simples e fácil de usar que você pode usar para formatar praticamente qualquer documento.
 
-O que é Markdown?
+## O que é Markdown?
 Markdown é uma linguagem de marcação leve que você pode usar para adicionar elementos de formatação a documentos de texto simples. Criado por John Gruber em 2004, o Markdown é agora uma das linguagens de marcação mais populares do mundo.
 
-O Markdown Guide
+## O Markdown Guide
 É um guia de referência gratuito e de código aberto que explica como usar o Markdown.
 
-Tudo o que você precisa para aprender Markdown.
+### Tudo o que você precisa para aprender Markdown.
 
 O Markdown torna a escrita na web rápida e fácil. O Guia de Markdown ensina como usá-lo.
 
-Link: https://www.markdownguide.org/
+[Acesse o guia para markdown] (https://www.markdownguide.org/)
 
 
-Aprenda as cordas.
+### Aprenda as cordas.
 
 Comece a usar o Markdown agora mesmo seguindo o guia de introdução. Ele foi projetado para todos, até mesmo para iniciantes.
 
-Mergulhe na sintaxe.
+### Mergulhe na sintaxe.
 
 Se você é novo no Markdown ou um profissional experiente, encontrará as respostas para suas perguntas de formatação na página de sintaxe básica.
 
-Leve-o até um nível.
+### Leve-o até um nível.
 
 Torne seus documentos Markdown incríveis usando sintaxe estendida para criar tabelas, blocos de código protegidos, links automáticos e muito mais.
 
@@ -30,8 +30,8 @@ Torne seus documentos Markdown incríveis usando sintaxe estendida para criar ta
 
 Editor Markdown para Windows free:
 
-https://www.microsoft.com/pt-br/p/markdown-editor-free/9pkflmlpcw3c?activetab=pivot:overviewtab
+ - [Markdown Editor Free] (https://www.microsoft.com/pt-br/p/markdown-editor-free/9pkflmlpcw3c?activetab=pivot:overviewtab)
 
-http://markdownpad.com/
+ - [Markdown Pad] (http://markdownpad.com/)
 
-https://listoffreeware.com/best-free-markdown-editor-for-windows/
+ - [12 Best Free Markdown For Windows] (https://listoffreeware.com/best-free-markdown-editor-for-windows/)
